@@ -2,6 +2,8 @@
 
 
 
+![Screenshot_1](https://user-images.githubusercontent.com/107684179/195607489-199c9b03-0972-421f-a3e3-64c6c22aa866.png)
+
 
 npm install -D tailwindcss
 npx tailwindcss init
